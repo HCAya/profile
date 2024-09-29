@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at Theoretical Chemistry Institute, Department of Chemistry, University of Wisconsin-Madison.
 
 ## Research Interests
 
