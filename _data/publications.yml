@@ -1,6 +1,6 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+  - title: "DSDPFlex: An Improved Flexible-Receptor Docking Method with GPU Acceleration"
     authors: <strong>Chengwei Dong</strong>, YuPeng Huang, Xiaohan Lin, Hong Zhang*, Yi Qin Gao* (*Corresponding authors)
     conference_short: ChemRxiv
     conference: ChemRxiv
