@@ -4,19 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at Theoretical Chemistry Institute, Department of Chemistry, University of Wisconsin-Madison.
+I am a Ph.D. student at Theoretical Chemistry Institute, University of Wisconsin-Madison. I have got my B.S. in Chemistry at Peking University.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Molecular Simulation:** biomolecular dynamics.
+- **Machine Learning:** generative models for scientific discovery.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sep. 2024]** I can't give you a definite answer at the moment.
+
 
 {% include_relative _includes/publications.md %}
 
