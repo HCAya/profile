@@ -4,6 +4,7 @@ main:
     authors: <strong>Chengwei Dong</strong>, YuPeng Huang, Xiaohan Lin, Hong Zhang*, Yi Qin Gao* (*Corresponding authors)
     conference_short: ChemRxiv
     conference: ChemRxiv
+    pdf: https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6572d98429a13c4d47f6b4c6/original/dsdp-flex-an-improved-flexible-receptor-docking-method-with-gpu-acceleration.pdf
     page: https://doi.org/10.26434/chemrxiv-2023-bcw0g-v2
     code: https://github.com/PKUGaoGroup/DSDPFlex
     image: ./assets/img/showcase_new_small.png
