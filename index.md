@@ -13,6 +13,7 @@ I am a Ph.D. student at Theoretical Chemistry Institute, University of Wisconsin
 
 ## News
 
+- **[Oct. 2024]** The manuscript *DSDPFlex: Flexible-Receptor Docking with GPU Acceleration* is accepted by *Journal of Chemical Information and Modeling* (JCIM)
 - **[Sep. 2024]** I can't give you a definite answer at the moment.
 
 
