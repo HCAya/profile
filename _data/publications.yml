@@ -4,7 +4,7 @@ main:
     authors: <strong>Chengwei Dong</strong>, Yu-Peng Huang, Xiaohan Lin, Hong Zhang*, Yi Qin Gao* (*Corresponding authors)
     conference_short: JCIM
     conference: Journal of Chemical Information and Modeling
-    page: https://doi.org/10.1021/acs.jcim.4c01715
+    pdf: https://doi.org/10.1021/acs.jcim.4c01715
     code: https://github.com/PKUGaoGroup/DSDPFlex
     image: ./assets/img/DSDPFlex-TOC-dpi300-1.png
-    notes: ASAP
+
