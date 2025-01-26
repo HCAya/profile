@@ -16,7 +16,7 @@ My research focuses on developing physics-informed machine learning methods to u
 
 ## News
 
-- **[Oct. 2024]** My first manuscript, *DSDPFlex: Flexible-Receptor Docking with GPU Acceleration* is accepted by JCIM!
+- **[Oct. 2024]** **My first manuscript**, *DSDPFlex: Flexible-Receptor Docking with GPU Acceleration* is accepted by JCIM!
 - **[Sep. 2024]** I can't give you a definite answer at the moment.
 
 

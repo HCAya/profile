@@ -1,10 +1,9 @@
 main:
 
   - title: "DSDPFlex: Flexible-Receptor Docking with GPU Acceleration"
-    authors: <strong>Chengwei Dong</strong>, Yu-Peng Huang, Xiaohan Lin, Hong Zhang*, Yi Qin Gao* (*Corresponding authors)
+    authors: <b>Chengwei Dong</b>, Yu-Peng Huang, Xiaohan Lin, Hong Zhang*, Yi Qin Gao* (*Corresponding authors)
     journal_short: JCIM
     journal: Journal of Chemical Information and Modeling
     pdf: https://doi.org/10.1021/acs.jcim.4c01715
     code: https://github.com/PKUGaoGroup/DSDPFlex
     image: ./assets/img/DSDPFlex-TOC-dpi300-1.png
-    others: We achieved something.
