@@ -6,6 +6,8 @@ layout: homepage
 
 I am a Ph.D. student at the Theoretical Chemistry Institute, University of Wisconsin-Madison. I completed my B.S. in Chemistry at Peking University. My research focuses on the rational integration of physics-based and machine learning methods to deepen our understanding of complex molecular systems, particularly those in living systems. I am also deeply interested in the multiscale emergent phenomena in nature.
 
+This is the second paragraph.
+
 ## Research Interests
 
 - **Molecular Simulation:** biomolecular dynamics, enhanced sampling methods.
