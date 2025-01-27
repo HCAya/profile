@@ -160,7 +160,7 @@ papertitle {
 
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #20212b;
+        background-color: #1c1c1d; // original #20212b
         color: #dadbdf;
     }
 
@@ -242,18 +242,18 @@ h1 {
 
 h2 {
   color:#043361;
-  font-weight: 500;
+  font-weight: 700; //original 600
   margin:2px 0px 15px;
-  font-size: 157%;
+  font-size: 140%;
 }
 
 @media (prefers-color-scheme: dark) {
   h1, h3, h4, h5, h6 {
-    color:rgb(62, 183, 240);
+    color:#2698ba;//rgb(62, 183, 240);
   }
 
   h2 {
-    color:rgb(62, 183, 240);
+    color:#2698ba;//rgb(62, 183, 240);
   }
 }
 
@@ -280,7 +280,7 @@ a:hover {
 
 @media (prefers-color-scheme: dark) {
   a {
-    color:rgb(62, 183, 240);
+    color: #2698ba; //rgb(62, 183, 240);
   }
 }
 
@@ -343,11 +343,11 @@ th {
 
 @media (prefers-color-scheme: dark) {
   th {
-    color:rgb(62, 183, 240);
+    color:#2698ba; //rgb(62, 183, 240);
   }
 
   dt {
-    color:rgb(62, 183, 240);
+    color:#2698ba; //rgb(62, 183, 240);
   }
 }
 
